@@ -24,3 +24,8 @@ function App() {
 }
 
 export default App;
+
+
+// "chrome_url_overrides": {
+//   "newtab": "index.html"
+// },
